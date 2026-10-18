@@ -146,6 +146,30 @@
 
 .editor .frame-wanita::after, .editor .frame-pria::after  {z-index:-1}
 
+/* Cover Glassmorphism Card */
+.cover-glass-card {
+    background: rgba(255, 255, 255, 0.94);
+    backdrop-filter: blur(16px);
+    -webkit-backdrop-filter: blur(16px);
+    border: 1.5px solid rgba(255, 255, 255, 0.95);
+    border-radius: 1.5rem;
+    padding: 22px 18px 20px;
+    box-shadow: 0 16px 40px rgba(0, 0, 0, 0.22), 0 0 20px rgba(255, 255, 255, 0.6);
+    max-width: 295px;
+    width: 86%;
+    margin: 0 auto;
+    text-align: center;
+}
+.cover-guest-box {
+    background: #FFFBF6;
+    border: 1px dashed #CDA379;
+    border-radius: 0.85rem;
+    padding: 10px 14px;
+    max-width: 250px;
+    margin: 0 auto 16px;
+    box-shadow: 0 2px 8px rgba(205, 163, 121, 0.12);
+}
+
 /* Custom Buku Tamu & RSVP */
 .rsvp-container-card {
     background: #ffffff;
@@ -401,12 +425,27 @@
                 <div id="satuMomen" data-guest="Nama Tamu" data-group="VIP" class="not-open">
                         <div class="satumomen_track">
                 <ul class="satumomen_list">
-                                                                    <li class="container-mobile satumomen_slide satumomen_cover" style="background-image: url(coverpage.jpeg); background-size: cover; background-position: center;">
+                                                                    <li class="container-mobile satumomen_slide satumomen_cover" style="background-image: url(coverpage.jpeg); background-size: cover; background-position: center top;">
                             <div class="workspace cover">
                                 <div class="content h-100 w-100 mx-auto">
-                                    <div class="position-relative h-100 d-flex justify-content-center align-items-center flex-column"><div class="w-100 mb-4"><div class="mx-auto image-editable animate__animated animate__zoomIn animate__slower" style="height:100px;width:100px;">
-    <img src="themes/cream-cute/amplop.webp" style="width: 100%;height: 100%;object-fit: contain;" alt="no-image.jpg">
-</div><div class="text-center animate__animated animate__fadeInDown animate__slower"><div class="editable" style="font-size:16px;">The Wedding of</div></div></div><div class="w-100 mb-4"><div class="text-center animate__animated animate__fadeInDown animate__slower"><div class="editable font-accent" style="font-size: 50px; font-family: 'Caveat Brush', cursive !important;">Zerri &amp; Cindi</div></div></div><div class="w-100 mb-5"><div class="text-center"><div style="border-radius:0.5rem;padding:10px;max-width:290px;" class="mx-auto"><div class="editable mb-1 animate__animated animate__fadeInUp animate__slower" style="font-size:14.4px;">Dear</div> <div id="guestNameSlot" class="editable color-accent h5 mb-3 font-weight-bold animate__animated animate__fadeInUp animate__slower" style="font-size:18px;">Nama Tamu Undangan</div></div> <button class="btn-open-invitation btn btn-primary rounded-pill animate__animated animate__fadeInUp animate__slow" style="font-size:14.4px;">Open Invitation</button></div></div></div>
+                                    <div class="position-relative h-100 d-flex justify-content-center align-items-center flex-column">
+                                        <div class="cover-glass-card animate__animated animate__fadeInUp animate__slow">
+                                            <div class="mx-auto image-editable animate__animated animate__zoomIn animate__slower" style="height:72px;width:72px;margin-bottom:8px;">
+                                                <img src="themes/cream-cute/amplop.webp" style="width: 100%;height: 100%;object-fit: contain;" alt="Amplop">
+                                            </div>
+                                            <div class="text-center animate__animated animate__fadeInDown animate__slower mb-1">
+                                                <div class="editable font-weight-bold" style="font-size:12.5px;letter-spacing:3px;text-transform:uppercase;color:#554D47;">The Wedding of</div>
+                                            </div>
+                                            <div class="text-center animate__animated animate__fadeInDown animate__slower mb-2">
+                                                <div class="editable font-accent" style="font-size: 46px; font-family: 'Caveat Brush', cursive !important; color:#8C5828; line-height: 1.15;">Zerri &amp; Cindi</div>
+                                            </div>
+                                            <div class="cover-guest-box">
+                                                <div class="editable mb-1 animate__animated animate__fadeInUp animate__slower" style="font-size:12.5px;color:#7A6F66;font-weight:500;">Dear</div>
+                                                <div id="guestNameSlot" class="editable font-weight-bold animate__animated animate__fadeInUp animate__slower" style="font-size:16.5px;color:#2B2625;line-height:1.3;">Nama Tamu Undangan</div>
+                                            </div>
+                                            <button class="btn-open-invitation btn btn-primary rounded-pill animate__animated animate__pulse animate__infinite infinite animate__slow" style="font-size:14px;font-weight:600;letter-spacing:0.5px;padding:9px 28px;background:linear-gradient(135deg, #CDA379 0%, #B88554 100%);border:none;box-shadow:0 6px 18px rgba(184,133,84,0.38);color:#fff;">Open Invitation</button>
+                                        </div>
+                                    </div>
                                 </div>
                                 
                             </div>
