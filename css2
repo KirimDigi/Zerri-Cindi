@@ -1,0 +1,165 @@
+﻿@font-face {
+  font-family: 'Aref Ruqaa';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(s/arefruqaa/v26/WwkbxPW1E165rajQKDulEIA.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Aref Ruqaa';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url(s/arefruqaa/v26/WwkYxPW1E165rajQKDulKDwNcNI.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Caveat Brush';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(s/caveatbrush/v12/EYq0maZfwr9S9-ETZc3fKXtMWw.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Sour Gummy';
+  font-style: italic;
+  font-weight: 100;
+  font-stretch: normal;
+  font-display: swap;
+  src: url(s/sourgummy/v3/8AtIGs2gPYuNDii97MjjLLvpghcw76OXBoIHpHgGZt9gyUXamxpYO4C8tVqI.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Sour Gummy';
+  font-style: italic;
+  font-weight: 200;
+  font-stretch: normal;
+  font-display: swap;
+  src: url(s/sourgummy/v3/8AtIGs2gPYuNDii97MjjLLvpghcw76OXBoIHpHgGZt9gyUXamxpYO4A8tFqI.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Sour Gummy';
+  font-style: italic;
+  font-weight: 300;
+  font-stretch: normal;
+  font-display: swap;
+  src: url(s/sourgummy/v3/8AtIGs2gPYuNDii97MjjLLvpghcw76OXBoIHpHgGZt9gyUXamxpYO4DitFqI.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Sour Gummy';
+  font-style: italic;
+  font-weight: 400;
+  font-stretch: normal;
+  font-display: swap;
+  src: url(s/sourgummy/v3/8AtIGs2gPYuNDii97MjjLLvpghcw76OXBoIHpHgGZt9gyUXamxpYO4C8tFqI.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Sour Gummy';
+  font-style: italic;
+  font-weight: 500;
+  font-stretch: normal;
+  font-display: swap;
+  src: url(s/sourgummy/v3/8AtIGs2gPYuNDii97MjjLLvpghcw76OXBoIHpHgGZt9gyUXamxpYO4COtFqI.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Sour Gummy';
+  font-style: italic;
+  font-weight: 600;
+  font-stretch: normal;
+  font-display: swap;
+  src: url(s/sourgummy/v3/8AtIGs2gPYuNDii97MjjLLvpghcw76OXBoIHpHgGZt9gyUXamxpYO4Bis1qI.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Sour Gummy';
+  font-style: italic;
+  font-weight: 700;
+  font-stretch: normal;
+  font-display: swap;
+  src: url(s/sourgummy/v3/8AtIGs2gPYuNDii97MjjLLvpghcw76OXBoIHpHgGZt9gyUXamxpYO4Bbs1qI.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Sour Gummy';
+  font-style: italic;
+  font-weight: 800;
+  font-stretch: normal;
+  font-display: swap;
+  src: url(s/sourgummy/v3/8AtIGs2gPYuNDii97MjjLLvpghcw76OXBoIHpHgGZt9gyUXamxpYO4A8s1qI.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Sour Gummy';
+  font-style: italic;
+  font-weight: 900;
+  font-stretch: normal;
+  font-display: swap;
+  src: url(s/sourgummy/v3/8AtIGs2gPYuNDii97MjjLLvpghcw76OXBoIHpHgGZt9gyUXamxpYO4AVs1qI.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Sour Gummy';
+  font-style: normal;
+  font-weight: 100;
+  font-stretch: normal;
+  font-display: swap;
+  src: url(s/sourgummy/v3/8AtGGs2gPYuNDii97MjjBrLbYfdJvDU5AZfP5opPVCC4oC5ANR1N88JU9w.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Sour Gummy';
+  font-style: normal;
+  font-weight: 200;
+  font-stretch: normal;
+  font-display: swap;
+  src: url(s/sourgummy/v3/8AtGGs2gPYuNDii97MjjBrLbYfdJvDU5AZfP5opPVCC4oC5ANR1Nc8NU9w.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Sour Gummy';
+  font-style: normal;
+  font-weight: 300;
+  font-stretch: normal;
+  font-display: swap;
+  src: url(s/sourgummy/v3/8AtGGs2gPYuNDii97MjjBrLbYfdJvDU5AZfP5opPVCC4oC5ANR1NrcNU9w.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Sour Gummy';
+  font-style: normal;
+  font-weight: 400;
+  font-stretch: normal;
+  font-display: swap;
+  src: url(s/sourgummy/v3/8AtGGs2gPYuNDii97MjjBrLbYfdJvDU5AZfP5opPVCC4oC5ANR1N88NU9w.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Sour Gummy';
+  font-style: normal;
+  font-weight: 500;
+  font-stretch: normal;
+  font-display: swap;
+  src: url(s/sourgummy/v3/8AtGGs2gPYuNDii97MjjBrLbYfdJvDU5AZfP5opPVCC4oC5ANR1NwcNU9w.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Sour Gummy';
+  font-style: normal;
+  font-weight: 600;
+  font-stretch: normal;
+  font-display: swap;
+  src: url(s/sourgummy/v3/8AtGGs2gPYuNDii97MjjBrLbYfdJvDU5AZfP5opPVCC4oC5ANR1NLcRU9w.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Sour Gummy';
+  font-style: normal;
+  font-weight: 700;
+  font-stretch: normal;
+  font-display: swap;
+  src: url(s/sourgummy/v3/8AtGGs2gPYuNDii97MjjBrLbYfdJvDU5AZfP5opPVCC4oC5ANR1NFMRU9w.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Sour Gummy';
+  font-style: normal;
+  font-weight: 800;
+  font-stretch: normal;
+  font-display: swap;
+  src: url(s/sourgummy/v3/8AtGGs2gPYuNDii97MjjBrLbYfdJvDU5AZfP5opPVCC4oC5ANR1Nc8RU9w.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Sour Gummy';
+  font-style: normal;
+  font-weight: 900;
+  font-stretch: normal;
+  font-display: swap;
+  src: url(s/sourgummy/v3/8AtGGs2gPYuNDii97MjjBrLbYfdJvDU5AZfP5opPVCC4oC5ANR1NWsRU9w.ttf) format('truetype');
+}
